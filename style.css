@@ -1,3 +1,25 @@
 body {
   background-image: url("https://sun9-east.userapi.com/sun9-42/s/v1/ig2/8qQxCjH2Is2zT_BBP6o003yZMCiT_AHBdJYcybi038Z_mUWI8k6WTyS2cS9PNsxNQS1NnogD_-3LS2HiG6YiyUhL.jpg?size=497x470&quality=96&type=album");
   background-repeat: no-repeat;
+  background-color: antiquewhite;
+  position: relative;
+}
+body img.image {
+  position: absolute;
+  left: 500px;
+  top: 350px;
+  height: 700px;
+  width: 500px;
+}
+body .gowno {
+  position: absolute;
+  left: 900px;
+  top: 350px;
+  height: 700px;
+  width: 500px;
+}
+body .title {
+  position: absolute;
+  margin-left: 50%;
+  margin-top: -10%;
+}
