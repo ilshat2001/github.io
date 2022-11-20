@@ -8,18 +8,19 @@ body img.image {
   position: absolute;
   left: 500px;
   top: 350px;
-  height: 700px;
+  height: 600px;
   width: 500px;
 }
 body .gowno {
   position: absolute;
   left: 900px;
   top: 350px;
-  height: 700px;
-  width: 500px;
+  height: 600px;
+  width: 1000px;
 }
 body .title {
   position: absolute;
   margin-left: 50%;
   margin-top: -10%;
 }
+/*# sourceMappingURL=style.css.map */
